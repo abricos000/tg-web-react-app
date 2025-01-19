@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import "./App.css";
 
 //@ts-ignore
-const tg = window.Telegram.WebAppж
+const tg = window.Telegram.WebApp
 
 function App() {
 
